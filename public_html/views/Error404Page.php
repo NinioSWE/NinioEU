@@ -1,0 +1,1 @@
+<img class="error-404-image" src="/images/404image.png">

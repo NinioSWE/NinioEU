@@ -1,0 +1,1 @@
+<p>This is the index page im currently working on a simple mvc-structor</p>
